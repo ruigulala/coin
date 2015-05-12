@@ -1,0 +1,7 @@
+Display parameters:
+Trace file: FFT_new.bin
+Instruction file: FFT_new.ilist
+Begin to analyze:
+Size of the file is 1158900
+T0 R:364565[0x80490f9]  T2 W:753391[0x804a7fe]
+done
